@@ -1,4 +1,4 @@
-## MySQL + phpmyadmin 
+## MySQL + phpmyadmin docker compose
 
 ## Usage
 
